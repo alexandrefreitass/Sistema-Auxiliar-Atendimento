@@ -1,7 +1,7 @@
 ## Aplicativo de Assistência ao Atendimento 190
 
 <div align="center">
-    <img src="https://github.com/alexandrefreitass/auxilioatendente/assets/109884524/58f7d090-852f-4aeb-bbf7-b48ad16e1b59" />
+    <img src="https://github.com/alexandrefreitass/auxilioatendente/assets/109884524/ee123f77-6506-432f-a8f3-d0763080d857" />
 </div>
 
 ### Visão Geral
